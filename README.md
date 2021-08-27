@@ -1,1 +1,1 @@
-# 194_Aryan_Sharma_DS_Lab
+# DS_Structure_Lab_194_Aryan_sharma
